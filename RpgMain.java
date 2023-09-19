@@ -23,11 +23,11 @@ public class RpgMain {
         System.out.print("\n|  Recomendo você aumentar a janela do console para conseguir visualizar textos maiores.         |\n");
         System.out.println("|________________________________________________________________________________________________|");
 
-        System.out.print("\n  Por favor, digite o seu nome para iniciar a aventura: ");
+        System.out.print("\nPor favor, digite o seu nome para iniciar a aventura: ");
         NOME = leia.nextLine();
-        System.out.println("\nBoa sorte na sua aventura RPG, " + NOME + "!\n" +
-                "Vamos começar?\n\n---------------------------------------------------------------------------------" +
-                "-----------------------");
+        System.out.println("\nBoa sorte na sua aventura RPG, " + NOME + "!\n" );
+        System.out.print("Vamos começar?\n\n---------------------------------------------------------------------------------");
+        System.out.print("-----------------------\n");
 
         Cenas inicio = new Cenas(
                 "Pesadelo?",

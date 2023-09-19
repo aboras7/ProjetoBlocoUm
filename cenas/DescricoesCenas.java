@@ -2,9 +2,7 @@ package projetoblocoum.cenas;
 
 import projetoblocoum.RpgMain;
 
-
 public class DescricoesCenas extends RpgMain {
-
 
     public static final Cenas ACENDER_LUZES = new Cenas(
             "Puxa vida.",

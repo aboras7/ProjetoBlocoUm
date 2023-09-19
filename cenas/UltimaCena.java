@@ -85,9 +85,8 @@ public class UltimaCena {
             "\nA carta diz: Parabéns por chegar na sala correta! A maioria dos que passaram " +
                     "\npor esta casa não conseguiram chegar onde você chegou, então já se considere um vitorioso. Você passou " +
                     "\npelo teste e não fugiu quando teve a oportunidade. Sendo assim, olhe embaixo do pano na maleta e veja " +
-                    "\nque há uma barra de ouro nela. Tome, é seu esse ouro. Agora volte exatamente por onde você veio, para não acabar " +
-                    "\nse machucando em outro caminho e saia pela porta da frente. Você está livre. \n",
+                    "\nque há uma barra de ouro nela. Tome, é seu esse ouro. Agora volte exatamente por onde você veio, para " +
+                    "\nnão acabar se machucando em outro caminho e saia pela porta da frente. Você está livre. \n",
             "Abrir a carta"
     );
-
 }
